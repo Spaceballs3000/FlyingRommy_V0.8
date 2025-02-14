@@ -8502,7 +8502,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_1.00mm:PinSocket_2x10_P1.00mm_Vertical_SMD"
+		(property "Footprint" "JJGTechnologies_Footprint_Library:PinSocket_2x10_P1.00mm_Vertical_SMD"
 			(at 54.61 44.45 0)
 			(effects
 				(font
@@ -8511,7 +8511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "FHBD-SS020G1NBWL-FA4"
 			(at 54.61 44.45 0)
 			(effects
 				(font
@@ -9906,7 +9906,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_1.00mm:PinSocket_2x10_P1.00mm_Vertical_SMD"
+		(property "Footprint" "JJGTechnologies_Footprint_Library:PinSocket_2x10_P1.00mm_Vertical_SMD"
 			(at 43.18 44.45 0)
 			(effects
 				(font
@@ -9915,7 +9915,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "FHBD-SS020G1NBWL-FA4"
 			(at 43.18 44.45 0)
 			(effects
 				(font

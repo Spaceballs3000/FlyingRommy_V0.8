@@ -1,4 +1,4 @@
-24654968758178741
+24656708287654471
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64546,6 +64546,13 @@ Through hole angled pin header THT 1x02 2.54mm single row
 0
 2
 2
+JJGTechnologies_Footprint_Library
+PinSocket_2x10_P1.00mm_Vertical_SMD
+surface-mounted straight socket strip, 2x10, 1.00mm pitch, double cols (https://gct.co/files/drawings/bc085.pdf), script generated
+Surface mounted socket strip SMD 2x10 1.00mm double row
+0
+20
+20
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
