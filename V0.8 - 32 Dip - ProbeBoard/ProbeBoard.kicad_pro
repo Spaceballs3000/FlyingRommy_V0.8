@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.4
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -180,6 +180,7 @@
       "track_widths": [
         0.0,
         0.09,
+        0.16,
         0.2,
         0.3,
         0.5,
@@ -215,6 +216,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.25,
+          "drill": 0.15
         },
         {
           "diameter": 0.25,
@@ -446,7 +451,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -461,7 +466,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "top.kicad_pro",
+    "filename": "ProbeBoard.kicad_pro",
     "version": 1
   },
   "net_settings": {

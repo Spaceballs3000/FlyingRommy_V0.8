@@ -1,4 +1,4 @@
-24656758748432677
+24663641455890512
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64547,6 +64547,34 @@ Through hole angled pin header THT 1x02 2.54mm single row
 2
 2
 JJGTechnologies_Footprint_Library
+PinHeader_1x16_P2.54mm_Vertical
+Through hole straight pin header, 1x16, 2.54mm pitch, single row
+Through hole pin header THT 1x16 2.54mm single row
+0
+16
+16
+JJGTechnologies_Footprint_Library
+PinSocket_2x10_P1.00mm_Vertical_SMD
+surface-mounted straight socket strip, 2x10, 1.00mm pitch, double cols (https://gct.co/files/drawings/bc085.pdf), script generated
+Surface mounted socket strip SMD 2x10 1.00mm double row
+0
+20
+20
+JJGTechnologies_Footprint_Library2
+DHVQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x3mm
+DHVQFN, 20 Pin (JEDEC MO-241/VAC, https://assets.nexperia.com/documents/package-information/SOT764-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+DHVQFN NoLead
+0
+23
+21
+JJGTechnologies_Footprint_Library2
+PinHeader_1x02_P2.54mm_Horizontal
+Through hole angled pin header, 1x02, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x02 2.54mm single row
+0
+2
+2
+JJGTechnologies_Footprint_Library2
 PinHeader_2x10_P1.00mm_Vertical_SMD
 surface-mounted straight pin header, 2x10, 1.00mm pitch, double rows
 Surface mounted pin header SMD 2x10 1.00mm double row

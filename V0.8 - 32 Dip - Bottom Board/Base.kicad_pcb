@@ -3586,7 +3586,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at -1.15 6.6 360)
+			(at -1.15 6.6 0)
 			(layer "B.SilkS")
 			(uuid "a1cf9f7b-20ce-477a-9f6f-75d1a4b991a2")
 			(effects
@@ -3598,7 +3598,7 @@
 			)
 		)
 		(property "Value" "DNP"
-			(at 0 -1.17 360)
+			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(uuid "d83125a0-ccad-413a-89ca-0fefed6cd5e9")
 			(effects
@@ -3757,7 +3757,7 @@
 			(uuid "467b04c3-8c00-4d3a-a528-66e79dbf25b8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "7a406a36-ef01-4110-9316-0aca7e52ed89")
 			(effects
@@ -4284,7 +4284,7 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at -1.1 7 360)
+			(at -1.1 7 0)
 			(layer "B.SilkS")
 			(uuid "f1137482-3257-4119-b467-ebd01465a053")
 			(effects
@@ -4296,7 +4296,7 @@
 			)
 		)
 		(property "Value" "0ohm"
-			(at 0 -1.17 360)
+			(at 0 -1.17 0)
 			(layer "B.Fab")
 			(uuid "224c440b-091b-43ef-b33e-483c9c4ce750")
 			(effects
@@ -4455,7 +4455,7 @@
 			(uuid "c5d7610f-4f93-475c-a234-091aa01a8d43")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "450e40a6-c342-47b8-9380-cd5c7f9549b6")
 			(effects
@@ -6606,7 +6606,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at -2.072 0.043 360)
+			(at -2.072 0.043 0)
 			(layer "B.SilkS")
 			(uuid "13de9983-bef7-4cf0-ac34-ace8cbe5eee0")
 			(effects
@@ -7943,8 +7943,8 @@
 		(layer "Edge.Cuts")
 		(uuid "fce698e5-2322-4cab-9e5f-1dcd885a99e3")
 	)
-	(gr_text "Flying Rommy\n    V0.8"
-		(at 155.930915 84.423766 0)
+	(gr_text "Flying Rommy\nV0.8\nBottom PCB"
+		(at 152.2 85.5 0)
 		(layer "B.SilkS")
 		(uuid "594814cc-7eed-40c2-86b6-4dd8425713db")
 		(effects
@@ -7953,11 +7953,11 @@
 				(thickness 0.15)
 				(bold yes)
 			)
-			(justify left bottom mirror)
+			(justify bottom mirror)
 		)
 	)
 	(gr_text "JJG Technologies \n    ©2025"
-		(at 157.226 87.5792 0)
+		(at 157.4 88.4 0)
 		(layer "B.SilkS")
 		(uuid "8863c0a8-115d-4389-98be-666ea942d3d5")
 		(effects
